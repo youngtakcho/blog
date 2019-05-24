@@ -31,7 +31,7 @@ header:
       zh-HK   : *EN
       ko      : &KO       프로젝트
       ko-KR   : *KO
-    url: /about.html
+    url: /projects.html
 
   - titles:
       en      : &EN       About
