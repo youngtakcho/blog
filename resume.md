@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-	en      : &EN       Projects
+	en      : &EN       Resume
 	en-GB   : *EN
 	en-US   : *EN
 	en-CA   : *EN
@@ -13,9 +13,9 @@ titles:
 	zh-Hant : *EN
 	zh-TW   : *EN
 	zh-HK   : *EN
-	ko      : &KO       프로젝트
+	ko      : &KO       이력서
 	ko-KR   : *KO
-key: page-projects
+key: page-resume
 ---
 
 if you want to see full-version of my Resume on new window <a href="https://youngtakcho.github.io/resumecards/" target="_blank">click</a>.<br>
