@@ -18,7 +18,7 @@ titles:
 key: page-about
 ---
 
-![Image](https://avatars3.githubusercontent.com/u/46730544?s=460&v=4){:.circle}
+![Image](https://avatars3.githubusercontent.com/u/46730544?s=260&v=4){:.circle}
 
 YoungtakCho is a graduate student of [Computer Science](https://cse.uta.edu/) at [University of Texas at Arlingtion](https://uta.edu/). He is interested in AI , BigData, Game developing, Media Art. He worked with a media artist, [Youngkak Cho](http://choyoungkak.com/?ckattempt=1).<br>
 Skill Keywords : C++, C, Python, JAVA, OpenCV<br>
