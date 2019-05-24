@@ -17,6 +17,23 @@ header:
     url: /archive.html
 
   - titles:
+      en      : &EN       Projects
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : *EN
+      zh      : *EN
+      zh-CN   : *EN
+      zh-SG   : *EN
+      zh-Hant : *EN
+      zh-TW   : *EN
+      zh-HK   : *EN
+      ko      : &KO       프로젝트
+      ko-KR   : *KO
+    url: /about.html
+
+  - titles:
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
