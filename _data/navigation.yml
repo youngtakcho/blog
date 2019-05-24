@@ -16,6 +16,23 @@ header:
       ko-KR   : *KO
     url: /archive.html
 
+     - titles:
+      en      : &EN       Resume
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : *EN
+      zh      : *EN
+      zh-CN   : *EN
+      zh-SG   : *EN
+      zh-Hant : *EN
+      zh-TW   : *EN
+      zh-HK   : *EN
+      ko      : &KO       이력서
+      ko-KR   : *KO
+    url: /resume.html
+
   - titles:
       en      : &EN       Projects
       en-GB   : *EN
